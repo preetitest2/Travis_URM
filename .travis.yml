@@ -8,3 +8,4 @@ jobs:
       dist: focal
       script:
         - python hello_world.py
+      cache: pip
